@@ -1,8 +1,7 @@
 # susu.nvim
 
 > [!NOTE]
-> `ˢᵘₛᵤ.nvim` helps typing **Su**perscript and **Su**bscript characters quickly
- 
+> `ˢᵘₛᵤ.nvim` helps typing [**Su**perscript and **Su**bscript characters](https://en.wikipedia.org/wiki/Subscript_and_superscript) quickly
 
 > [!TIP]
 > not all characters have a super-/subscript equivalent
