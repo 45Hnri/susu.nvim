@@ -41,8 +41,8 @@ require("susu").setup {
 
 - `<Leader>S<Key>` to input `<Key>` as a Superscript character
 - `<Leader>s<Key>` to input `<Key>` as a Subscript character
-    - [[#Setup|change these to your liking]]
+    - [change these to your liking](#Setup)
 
-- `:lua require("susu").picker()` to view all symbols in Telescope
-    - this requires setting `picker = true` in the [[#Setup|Setup]]
+- `:lua require("susu").picker()` to view all symbols in [Telescope](https://github.com/nvim-telescope/telescope.nvim)
+    - [this requires setting `picker = true`](#Setup)
 
