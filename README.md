@@ -1,6 +1,6 @@
 # susu.nvim
 
-> [!INFO]
+> [!NOTE]
 > `ˢᵘₛᵤ.nvim` helps typing **Su**perscript and **Su**bscript characters quickly
  
 
