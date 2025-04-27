@@ -60,7 +60,7 @@ M.setup = function(config)
     vim.keymap.set("n", binds.super_in, function() put_char("super") end,{noremap=true,silent=true})
     vim.keymap.set("n", binds.sub_in, function() put_char("sub") end,{noremap=true,silent=true})
 
-    if config and config.picker or true then
+    if config and config.picker then
         M.picker = require("picker").get_symbols
     end
 end
