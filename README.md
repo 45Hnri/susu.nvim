@@ -9,6 +9,7 @@
 ## Setup
 
 The default config looks like this:
+
 ```lua
 require("susu").setup {
     -- this table is optional for changing the default config
@@ -26,7 +27,7 @@ require("susu").setup {
 
 ```lua
 {
-    'HenrisHub/susu.nvim',
+    '45Hnri/susu.nvim',
     -- only needed if you want to use the picker
     dependencies = {
         'nvim-lua/plenary.nvim',
