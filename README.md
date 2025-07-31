@@ -1,10 +1,13 @@
-# susu.nvim
+<h1 align="center">susu.nvim</h1>
 
 > [!NOTE]
 > `ˢᵘₛᵤ.nvim` helps typing [**Su**perscript and **Su**bscript characters](https://en.wikipedia.org/wiki/Subscript_and_superscript) quickly
 
 > [!TIP]
 > not all characters have a super-/subscript equivalent
+
+> [!TIP]
+> if you just need numbers you could also use Vim's [digraphs](https://neovim.io/doc/user/usr_24.html#_digraphs): `<C-k>6s` for `₆` or `<C-k>9S` for `⁹`
 
 ## Setup
 
