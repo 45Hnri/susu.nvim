@@ -1,5 +1,7 @@
 local M = {}
 
+M.get_symbols = function(opts)
+
 local pickers = require "telescope.pickers"
 local finders = require "telescope.finders"
 local conf = require("telescope.config").values
@@ -7,7 +9,6 @@ local actions = require "telescope.actions"
 local action_state = require "telescope.actions.state"
 local symbols = require "symbols"
 
-M.get_symbols = function(opts)
   opts = opts or {}
   pickers.new(opts, {
     prompt_title = "sub-/superscript symbols",
